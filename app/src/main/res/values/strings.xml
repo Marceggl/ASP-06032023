@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula3</string>
+
+    <string name="string1">Número</string>
+    <string name="string2">Exemplo 1 da Aula 3</string>
+    <string name="string3">Digite um valor</string>
+    <string name="btn">Clica muito</string>
+</resources>
